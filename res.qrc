@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imags/cloud.png</file>
+        <file>imags/exclamation.png</file>
+        <file>imags/info.png</file>
+        <file>imags/people.png</file>
+        <file>imags/scale.png</file>
+        <file>imags/settings.png</file>
+    </qresource>
+</RCC>
